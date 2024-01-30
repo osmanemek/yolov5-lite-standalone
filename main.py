@@ -52,4 +52,4 @@ def detect(source):
         findex1 = findex1 + 1
 
 if __name__ == '__main__':
-    detect('rtsp://admin:49c82606c26f775fa304665aafacb95a6655103f@192.168.31.235:88/videoSub')
+    detect('rtsp://example.com/streamName')
